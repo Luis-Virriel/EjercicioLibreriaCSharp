@@ -45,6 +45,8 @@ namespace PracticoBibliteca
 
             NuevaBiblioteca.MostrarLibros();
 
+            Console.ReadKey();
+
 
 
         }
