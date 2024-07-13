@@ -1,0 +1,7 @@
+C:\Users\luisv\Documents\CEI-2024\SegundoSemestre\PracticoBibliteca\obj\Debug\PracticoBibliteca.csproj.AssemblyReference.cache
+C:\Users\luisv\Documents\CEI-2024\SegundoSemestre\PracticoBibliteca\obj\Debug\PracticoBibliteca.csproj.CoreCompileInputs.cache
+C:\Users\luisv\Documents\CEI-2024\SegundoSemestre\PracticoBibliteca\bin\Debug\PracticoBibliteca.exe.config
+C:\Users\luisv\Documents\CEI-2024\SegundoSemestre\PracticoBibliteca\bin\Debug\PracticoBibliteca.exe
+C:\Users\luisv\Documents\CEI-2024\SegundoSemestre\PracticoBibliteca\bin\Debug\PracticoBibliteca.pdb
+C:\Users\luisv\Documents\CEI-2024\SegundoSemestre\PracticoBibliteca\obj\Debug\PracticoBibliteca.exe
+C:\Users\luisv\Documents\CEI-2024\SegundoSemestre\PracticoBibliteca\obj\Debug\PracticoBibliteca.pdb
